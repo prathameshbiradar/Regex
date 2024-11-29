@@ -1,0 +1,9 @@
+Regular Expression :
+
+    Regular Expression is an API to define particular pattern for searching and manipulating String.
+    Regex is used to represent group of String objects according to particular pattern.
+    It is present in java.util.regex package.
+    There is 1 interface and 3 classes in regex package.
+    MatchResult interface, Matcher class, Pattern class, PatternSyntaxException class.
+
+
